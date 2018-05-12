@@ -1,16 +1,22 @@
 _repo: Collected-Papers-on-Analytical-Psychology_48225
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Long, Constance E.
       gutenberg_agent_id: '44680'
       url: http://www.gutenberg.org/2009/agents/44680
+covers:
+- cover_type: archival
+  image_path: 48225-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Jung, C. G.
     gutenberg_agent_id: '44679'
     url: http://www.gutenberg.org/2009/agents/44679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48225#Collected-Papers-on-Analytical-Psychology
 gutenberg_issued: '2015-02-10'
 gutenberg_type: Text
 identifiers:
